@@ -9,3 +9,9 @@ Ama 16 yaşıma bastığımda kendime sert bir kural koydum: **Bilgisayar oyunla
 
 Nihal Erdem MTAL Bilişim bölümünü bitirdim ama okulu sadece lise sertifikasını/diplomasını almak için okudum. Okulun veya hocaların bana bu süreçte hiçbir faydası olmadı, her şeyi sıfırdan kendim öğrendim. Arkamda gerçek bir insan veya kurs yoktu; **ben Claude ve Gemini gibi yapay zekaları kendime mentor belledim.** YouTube'daki kaliteli proje videolarını izleyip takıldığım yerde 7/24 yapay zekayla kafa kafaya vererek kendimi geliştirdim.
 
+
+## Geliştirdiğim Alanlar
+
+*   **Yapay Zeka:** TensorFlow kullanarak transferli öğrenme modelleri eğitiyorum ve bilgisayarlı görü projeleri yapıyorum.
+*   **Web:** React.js ve TypeScript ile arayüzler tasarlıyor, Django ile de sistemlerin arka plan (backend) mimarisini kuruyorum.
+*   **Masaüstü:** C# Windows Forms kullanarak modern tasarımlı bilgisayar programları yazıyorum.
