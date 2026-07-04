@@ -1,3 +1,6 @@
+![Hi, I am Musa Gülmak](/banner.png)
+
+
 ## 📌 About Me
 
 I stepped into the software world at the age of 14 by messing around with code. 💻 For the first two years (until I turned 16), I was moving forward randomly, a bit unplanned and unbalanced.
@@ -36,8 +39,6 @@ Thank you for visiting my profile! You can use the channels below to check out m
 
 ---
 
-
----
 ---
 
 # 🚀 Selamlar, Ben Musa Gülmak! 👋
