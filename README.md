@@ -28,10 +28,5 @@ Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olar
 
 ## GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgulmak3333&show_icons=true&theme=gotham" alt="Musa's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgulmak3333&layout=compact&theme=gotham" alt="Top Langs" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgulmak3333&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=transparent) 
