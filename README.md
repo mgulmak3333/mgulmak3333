@@ -1,3 +1,47 @@
+## 📌 About Me
+
+I stepped into the software world at the age of 14 by messing around with code. 💻 For the first two years (until I turned 16), I was moving forward randomly, a bit unplanned and unbalanced.
+
+But when I turned 16, I set a strict rule for myself: **I completely removed computer games from my life and fully dedicated myself to becoming a software developer!** 🔥
+
+I graduated from Nihal Erdem Vocational and Technical Anatolian High School (Information Technology Department), but I only studied there to get my high school diploma. 🏫 The school or the teachers contributed absolutely nothing to my journey; I learned everything completely on my own from scratch. There was no real human or boot camp behind me; **I chose AIs like Claude and Gemini as my mentors.** 🤖 I watched high-quality project videos on YouTube and developed myself by going head-to-head with AI 24/7 whenever I got stuck.
+
+During this journey, I also developed an interest in digital design and learned Adobe Photoshop and Adobe Illustrator as a hobby after the age of 16. 🎨 Although I don't use them very frequently, I share my hobby designs and visual works on my **Behance** profile. ✨
+
+---
+
+## 🛠️ Tech Stack & Fields of Development
+
+* 🧠 **Artificial Intelligence:** Training transfer learning models using TensorFlow and developing computer vision projects.
+* 🌐 **Web Development:** Designing modern frontends with React.js and TypeScript, and building robust backend architectures with Django.
+* 🖥️ **Desktop Programming:** Developing high-performance computer software with modern user interfaces using C# Windows Forms.
+
+---
+
+## 📊 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgulmak3333&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgulmak3333&theme=transparent) 
+
+---
+
+## 🤝 Accounts & Contact
+
+Thank you for visiting my profile! You can use the channels below to check out my projects or get in touch with me:
+
+* 💼 **LinkedIn:** [linkedin.com/in/musagulmak](https://www.linkedin.com/in/musagulmak/)
+* 📊 **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
+* 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
+* 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
+
+---
+
+
+---
+---
+
+# 🚀 Selamlar, Ben Musa Gülmak! 👋
+
 ## 📌 Ben Kimim?
 
 Yazılım dünyasına daha 14 yaşındayken kodları kurcalayarak girdim. 💻 İlk iki yıl (16 yaşıma kadar) kafama göre, biraz plansız ve dengesiz ilerliyordum. 
