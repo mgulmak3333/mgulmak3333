@@ -9,6 +9,7 @@ Ama 16 yaşıma bastığımda kendime sert bir kural koydum: **Bilgisayar oyunla
 
 Nihal Erdem MTAL Bilişim bölümünü bitirdim ama okulu sadece lise sertifikasını/diplomasını almak için okudum. Okulun veya hocaların bana bu süreçte hiçbir faydası olmadı, her şeyi sıfırdan kendim öğrendim. Arkamda gerçek bir insan veya kurs yoktu; **ben Claude ve Gemini gibi yapay zekaları kendime mentor belledim.** YouTube'daki kaliteli proje videolarını izleyip takıldığım yerde 7/24 yapay zekayla kafa kafaya vererek kendimi geliştirdim.
 
+Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olarak Adobe Photoshop ile Adobe Illustrator kullanmayı öğrendim. Çok sık olmasa da hobi amaçlı yaptığım tasarımları ve görsel işlerimi **Behance** profilimde paylaşıyorum.
 
 ## Geliştirdiğim Alanlar
 
@@ -23,3 +24,7 @@ Nihal Erdem MTAL Bilişim bölümünü bitirdim ama okulu sadece lise sertifikas
 *   **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
 *   **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 *   **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
+
+
+---
+👁️ Profil Ziyaret Sayısı: ![Ziyaretçi Sayacı](https://profile-counter.glitch.me/musagulmak/count.svg)
