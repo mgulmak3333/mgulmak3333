@@ -15,3 +15,11 @@ Nihal Erdem MTAL Bilişim bölümünü bitirdim ama okulu sadece lise sertifikas
 *   **Yapay Zeka:** TensorFlow kullanarak transferli öğrenme modelleri eğitiyorum ve bilgisayarlı görü projeleri yapıyorum.
 *   **Web:** React.js ve TypeScript ile arayüzler tasarlıyor, Django ile de sistemlerin arka plan (backend) mimarisini kuruyorum.
 *   **Masaüstü:** C# Windows Forms kullanarak modern tasarımlı bilgisayar programları yazıyorum.
+
+
+## Hesaplarım / İletişim
+
+*   **LinkedIn:** [linkedin.com/in/musagulmak](https://www.linkedin.com/in/musagulmak/)
+*   **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
+*   **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
+*   **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
