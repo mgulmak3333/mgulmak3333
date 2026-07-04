@@ -29,4 +29,4 @@ Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olar
 ## GitHub İstatistiklerim
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgulmak3333&theme=transparent) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgulmak3333&theme=transparent) 
