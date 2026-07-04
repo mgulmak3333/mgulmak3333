@@ -26,5 +26,6 @@ Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olar
 *   **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
 
 
----
-👁️ Profil Ziyaret Sayısı: ![Ziyaretçi Sayacı](https://profile-counter.glitch.me/musagulmak/count.svg)
+![Musa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musaglmak&show_icons=true&theme=radial&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaglmak&layout=compact&theme=radial)
