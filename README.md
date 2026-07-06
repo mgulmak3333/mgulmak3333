@@ -71,7 +71,6 @@ Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olar
 
 * 🧠 **Yapay Zeka:** TensorFlow kullanarak transferli öğrenme (transfer learning) modelleri eğitiyorum ve bilgisayarlı görü (computer vision) projeleri geliştiriyorum.
 * 🌐 **Web Geliştirme:** React.js ve TypeScript ile modern ön yüzler (frontend) tasarlıyor, Django ile de güçlü arka plan (backend) mimarileri kuruyorum.
-* 🖥️ **Masaüstü Programlama:** C# Windows Forms kullanarak modern arayüze ve yüksek performansa sahip bilgisayar yazılımları geliştiriyorum.
 
 ---
 
