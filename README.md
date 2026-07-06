@@ -1,7 +1,6 @@
 ![Hi, I am Musa Gülmak](/banner.png)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,7 +28,6 @@ During this journey, I also developed an interest in digital design and learned 
 
 * 🧠 **Artificial Intelligence:** Training transfer learning models using TensorFlow and developing computer vision projects.
 * 🌐 **Web Development:** Designing modern frontends with React.js and TypeScript, and building robust backend architectures with Django.
-* 🖥️ **Desktop Programming:** Developing high-performance computer software with modern user interfaces using C# Windows Forms.
 
 ---
 
