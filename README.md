@@ -33,8 +33,7 @@ During this journey, I also developed an interest in digital design and learned 
 
 ## 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/mgulmak3333?template=classic&base.indepth=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul&config.display=large)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgulmak3333&theme=transparent) 
+![Metrics](https://metrics.lecoq.io/mgulmak3333?template=classic&base.indepth=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul&config.display=large) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgulmak3333&theme=transparent) 
 
 ---
@@ -77,7 +76,7 @@ Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olar
 
 ## 📊 GitHub İstatistiklerim
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgulmak3333&theme=transparent) 
+![Metrics](https://metrics.lecoq.io/mgulmak3333?template=classic&base.indepth=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Europe%2FIstanbul&config.display=large) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgulmak3333&theme=transparent) 
 
 ---
