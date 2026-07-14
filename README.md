@@ -33,8 +33,8 @@ During this journey, I also developed an interest in digital design and learned 
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgulmak3333&theme=transparent)   
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgulmak3333&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgulmak3333&theme=react)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgulmak3333&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgulmak3333&theme=react) 
 
 ---
 
