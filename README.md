@@ -47,6 +47,7 @@ Thank you for visiting my profile! You can use the channels below to check out m
 * 📊 **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
+* 📜 **Zenodo:** [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22G%C3%BClmak%2C%20Musa%22&l=list&p=1&s=10&sort=bestmatch)
 
 ---
 
@@ -90,5 +91,6 @@ Profilimi ziyaret ettiğin için teşekkürler! Projelerimi incelemek veya benim
 * 📊 **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
+* 📜 **Zenodo:** [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22G%C3%BClmak%2C%20Musa%22&l=list&p=1&s=10&sort=bestmatch)
 
 ---
