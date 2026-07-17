@@ -43,7 +43,7 @@ During this journey, I also developed an interest in digital design and learned 
 Thank you for visiting my profile! You can use the channels below to check out my projects or get in touch with me:
 
 * 💼 **LinkedIn:** [linkedin.com/in/musagulmak](https://www.linkedin.com/in/musagulmak/)
-* 🌍 **Dev.to:** [https://dev.to/mgulmak3333](https://dev.to/mgulmak3333)
+* 🌍 **Medium:** [medium.com/@musagulmak8](https://medium.com/@musagulmak8)
 * 📊 **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
@@ -87,7 +87,7 @@ Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olar
 Profilimi ziyaret ettiğin için teşekkürler! Projelerimi incelemek veya benimle iletişime geçmek için aşağıdaki kanalları kullanabilirsin:
 
 * 💼 **LinkedIn:** [linkedin.com/in/musagulmak](https://www.linkedin.com/in/musagulmak/)
-* 🌍 **Dev.to:** [https://dev.to/mgulmak3333](https://dev.to/mgulmak3333)
+* 🌍 **Medium:** [medium.com/@musagulmak8](https://medium.com/@musagulmak8)
 * 📊 **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
