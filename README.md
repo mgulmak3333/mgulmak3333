@@ -18,7 +18,7 @@ I stepped into the software world at the age of 14 by messing around with code. 
 
 But when I turned 16, I set a strict rule for myself: **I completely removed computer games from my life and fully dedicated myself to becoming a software developer!** 🔥
 
-I graduated from Nihal Erdem Vocational and Technical Anatolian High School (Information Technology Department), but I only studied there to get my high school diploma. 🏫 The school or the teachers contributed absolutely nothing to my journey; I learned everything completely on my own from scratch. There was no real human or boot camp behind me; **I chose AIs like Claude and Gemini as my mentors.** 🤖 I watched high-quality project videos on YouTube and developed myself by going head-to-head with AI 24/7 whenever I got stuck.
+I graduated from Atatürk Vocational and Technical Anatolian High School (Information Technology Department), but I only studied there to get my high school diploma. 🏫 The school or the teachers contributed absolutely nothing to my journey; I learned everything completely on my own from scratch. There was no real human or boot camp behind me; **I chose AIs like Claude and Gemini as my mentors.** 🤖 I watched high-quality project videos on YouTube and developed myself by going head-to-head with AI 24/7 whenever I got stuck.
 
 During this journey, I also developed an interest in digital design and learned Adobe Photoshop and Adobe Illustrator as a hobby after the age of 16. 🎨 Although I don't use them very frequently, I share my hobby designs and visual works on my **Behance** profile. ✨
 
@@ -63,7 +63,7 @@ Yazılım dünyasına daha 14 yaşındayken kodları kurcalayarak girdim. 💻 �
 
 Ama 16 yaşıma bastığımda kendime sert bir kural koydum: **Bilgisayar oyunlarını tamamen hayatımdan çıkardım ve kendimi tam anlamıyla bir yazılımcı olmaya adadım!** 🔥
 
-Nihal Erdem MTAL Bilişim bölümünü bitirdim ama okulu sadece lise diplomasını almak için okudum. 🏫 Okulun veya hocaların bana bu süreçte hiçbir faydası olmadı, her şeyi sıfırdan kendim öğrendim. Arkamda gerçek bir insan veya kurs yoktu; **ben Claude ve Gemini gibi yapay zekaları kendime mentor belledim.** 🤖 YouTube'daki kaliteli proje videolarını izleyip takıldığım yerde 7/24 yapay zekayla kafa kafaya vererek kendimi geliştirdim.
+Atatürk MTAL Bilişim bölümünü bitirdim ama okulu sadece lise diplomasını almak için okudum. 🏫 Okulun veya hocaların bana bu süreçte hiçbir faydası olmadı, her şeyi sıfırdan kendim öğrendim. Arkamda gerçek bir insan veya kurs yoktu; **ben Claude ve Gemini gibi yapay zekaları kendime mentor belledim.** 🤖 YouTube'daki kaliteli proje videolarını izleyip takıldığım yerde 7/24 yapay zekayla kafa kafaya vererek kendimi geliştirdim.
 
 Bu süreçte dijital tasarıma da merak saldım ve 16 yaşımdan sonra hobi olarak Adobe Photoshop ile Adobe Illustrator kullanmayı öğrendim. 🎨 Çok sık olmasa da hobi amaçlı yaptığım tasarımları ve görsel işlerimi **Behance** profilimde paylaşıyorum. ✨
 
