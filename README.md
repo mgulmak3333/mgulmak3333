@@ -48,7 +48,7 @@ Thank you for visiting my profile! You can use the channels below to check out m
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
 * 💬 **𝕏-Twitter** [X-Twitter](https://x.com/musagulmakk) 
-* 📜 **Zenodo:** [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22G%C3%BClmak%2C%20Musa%22&l=list&p=1&s=10&sort=bestmatch)
+* 📜 **Zenodo:** [Zenodo](https://zenodo.org/records/21418961?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQxMzA0ZjkyLWQ5YzgtNGM4Yi1iZDYxLThlOTNlOGRmNDczZCIsImRhdGEiOnt9LCJyYW5kb20iOiJlMDYzMzlhMmFkZjQyZGZlODEyYmNhOWFkYTQ3NjVjNCJ9.fapSFjFVQYDov4UJ3jBi90ZTupUOsZy1Upo4BPQ1kEZIp_B7THLQnYAER_0k3hEPWAXzrQuI93KfPD4_XeNc_Q)
 
 ---
 
@@ -93,6 +93,6 @@ Profilimi ziyaret ettiğin için teşekkürler! Projelerimi incelemek veya benim
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
 * 💬 **𝕏-Twitter** [X-Twitter](https://x.com/musagulmakk)
-* 📜 **Zenodo:** [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22G%C3%BClmak%2C%20Musa%22&l=list&p=1&s=10&sort=bestmatch)
+* 📜 **Zenodo:** [Zenodo](https://zenodo.org/records/21418961?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQxMzA0ZjkyLWQ5YzgtNGM4Yi1iZDYxLThlOTNlOGRmNDczZCIsImRhdGEiOnt9LCJyYW5kb20iOiJlMDYzMzlhMmFkZjQyZGZlODEyYmNhOWFkYTQ3NjVjNCJ9.fapSFjFVQYDov4UJ3jBi90ZTupUOsZy1Upo4BPQ1kEZIp_B7THLQnYAER_0k3hEPWAXzrQuI93KfPD4_XeNc_Q)
 
 ---
