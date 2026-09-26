@@ -14,9 +14,9 @@
 <a name="-english-version"></a>
 ## 📌 About Me
 
-I stepped into the software world at the age of 14 by messing around with code. 💻 For the first two years (until I turned 16), I was moving forward randomly, a bit unplanned and unbalanced.
+I stepped into the world of software at just 14, simply by being curious and experimenting with code. 💻 For the first two years, until I turned 16, I mostly progressed in my own way and without a specific plan.
 
-But when I turned 16, I set a strict rule for myself: **I completely removed computer games from my life and fully dedicated myself to becoming a software developer!** 🔥
+But when I turned 16, I changed my approach: **I decided to take a more structured path and started seriously developing my skills in software.**
 
 I graduated from Atatürk Vocational and Technical Anatolian High School (Information Technology Department), but I only studied there to get my high school diploma. 🏫 The school or the teachers contributed absolutely nothing to my journey; I learned everything completely on my own from scratch. There was no real human or boot camp behind me; **I chose AIs like Claude and Gemini as my mentors.** 🤖 I watched high-quality project videos on YouTube and developed myself by going head-to-head with AI 24/7 whenever I got stuck.
 
@@ -59,9 +59,9 @@ Thank you for visiting my profile! You can use the channels below to check out m
 
 ## 📌 Ben Kimim?
 
-Yazılım dünyasına daha 14 yaşındayken kodları kurcalayarak girdim. 💻 İlk iki yıl (16 yaşıma kadar) kafama göre, biraz plansız ve dengesiz ilerliyordum. 
+Yazılım dünyasına daha 14 yaşındayken, merak edip kodları kurcalayarak adım attım. 💻 İlk iki yıl, 16 yaşıma kadar, çoğunlukla kendi yöntemlerimle ve belirli bir plan olmadan ilerledim.
 
-Ama 16 yaşıma bastığımda kendime sert bir kural koydum: **Bilgisayar oyunlarını tamamen hayatımdan çıkardım ve kendimi tam anlamıyla bir yazılımcı olmaya adadım!** 🔥
+Ama 16 yaşıma geldiğimde yaklaşımımı değiştirdim: Daha düzenli ilerlemeye ve kendimi yazılım alanında **ciddi şekilde geliştirmeye karar verip başladım.** 
 
 Atatürk MTAL Bilişim bölümünü bitirdim ama okulu sadece lise diplomasını almak için okudum. 🏫 Okulun veya hocaların bana bu süreçte hiçbir faydası olmadı, her şeyi sıfırdan kendim öğrendim. Arkamda gerçek bir insan veya kurs yoktu; **ben Claude ve Gemini gibi yapay zekaları kendime mentor belledim.** 🤖 YouTube'daki kaliteli proje videolarını izleyip takıldığım yerde 7/24 yapay zekayla kafa kafaya vererek kendimi geliştirdim.
 
