@@ -47,6 +47,7 @@ Thank you for visiting my profile! You can use the channels below to check out m
 * 📊 **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
+* 📖 **Substack:** [substack.com/@musagulmak](https://substack.com/@musagulmak)
 * 💬 **𝕏-Twitter** [X-Twitter](https://x.com/musagulmakk) 
 * 📜 **Zenodo:** [Zenodo](https://zenodo.org/records/21418961?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQxMzA0ZjkyLWQ5YzgtNGM4Yi1iZDYxLThlOTNlOGRmNDczZCIsImRhdGEiOnt9LCJyYW5kb20iOiJlMDYzMzlhMmFkZjQyZGZlODEyYmNhOWFkYTQ3NjVjNCJ9.fapSFjFVQYDov4UJ3jBi90ZTupUOsZy1Upo4BPQ1kEZIp_B7THLQnYAER_0k3hEPWAXzrQuI93KfPD4_XeNc_Q)
 
@@ -92,6 +93,7 @@ Profilimi ziyaret ettiğin için teşekkürler! Projelerimi incelemek veya benim
 * 📊 **Kaggle:** [kaggle.com/musaglmak](https://www.kaggle.com/musaglmak)
 * 🎨 **Behance:** [behance.net/musaglmak](https://www.behance.net/musaglmak)
 * 📸 **Instagram:** [instagram.com/rnusa_gk01](https://www.instagram.com/rnusa_gk01/)
+* 📖 **Substack:** [substack.com/@musagulmak](https://substack.com/@musagulmak)
 * 💬 **𝕏-Twitter** [X-Twitter](https://x.com/musagulmakk)
 * 📜 **Zenodo:** [Zenodo](https://zenodo.org/records/21418961?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQxMzA0ZjkyLWQ5YzgtNGM4Yi1iZDYxLThlOTNlOGRmNDczZCIsImRhdGEiOnt9LCJyYW5kb20iOiJlMDYzMzlhMmFkZjQyZGZlODEyYmNhOWFkYTQ3NjVjNCJ9.fapSFjFVQYDov4UJ3jBi90ZTupUOsZy1Upo4BPQ1kEZIp_B7THLQnYAER_0k3hEPWAXzrQuI93KfPD4_XeNc_Q)
 
